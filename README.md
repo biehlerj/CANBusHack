@@ -10,7 +10,7 @@ CAN stands for Controller Area Network and was released in 1986. It allows for m
 
 ## Why hack your car
 
-I wanted to learn what goes into making a car "smart" and decided for my final project at [Holberton School](https://www.holbertonschool.com/) I wanted to try and make my car smart. I am interested in car automation since that is such an interesting issue and since driving a car is one of my favorite hobbies and being a software engineer I wanted to understand how all the electronic components in my car talk to each other. As cars become "smarter" understanding how the components of the car talk to each other becomes a more useful skill. Driverless cars have been approved to carry passengers in the state of California and all the work of making a car driverless starts with sending, receiving, and interpreting data to/from a CAN Bus.
+I wanted to learn what goes into making a car "smart" and decided I wanted to try to make my car smart. I am interested in car automation since that is such an interesting issue and since driving a car is one of my favorite hobbies and being a software engineer I wanted to understand how all the electronic components in my car talk to each other. As cars become "smarter" understanding how the components of the car talk to each other becomes a more useful skill. Driverless cars have been approved to carry passengers in the state of California and all the work of making a car driverless starts with sending, receiving, and interpreting data to/from a CAN Bus.
 
 ## What did you learn
 
@@ -44,7 +44,7 @@ The technologies being used:
 
 ## About the Author
 
-I'm currently a student at Holberton School about to start my job search and wanted to exercise my skills that I gained over the first 9 months of the program. I have always been interested in embedded systems, IoT, and other low-level fields and wanted to learn what it takes to create an app or product in those fields, so after talking to my father, who is an engineer, and being inspired to pursue a career in the IoT space by one of the Holberton School mentors I decided to do this for my final project.
+I have always been interested in embedded systems, IoT, and other low-level fields and wanted to learn what it takes to create an app or product in those fields, so after talking to my father, who is an engineer, and being inspired to pursue a career in the IoT space by a mentor I decided to do this for my final project.
 
 You can find me on Twitter [@Biehlerj](https://twitter.com/Biehlerj), on [LinkedIn](https://www.linkedin.com/in/jacob-biehler-475573139/), on GitHub at [biehlerj](https://github.com/biehlerj), and of course on [GitLab](https://gitlab.com/biehlerj).
 
